@@ -2,7 +2,7 @@ POST http://localhost:8080/api/auth/local/register
 Content-Type: application/json
 
 {
-    "username": "penpitcha123",
-    "email": "s6602041520161@gmail.kmutnb.ac.th",
+    "username": "penpitcha1234",
+    "email": "khaw150345@gmail.com",
     "password": "Penpitcha150345"
 }
